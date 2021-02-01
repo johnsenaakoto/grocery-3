@@ -1,0 +1,61 @@
+Customer - Karen
+
+
+Apples x8 @ $0.99
+Swiss Cheese x5 @ $2.49
+
+
+Total: $20.37
+Thank you come back soon!
+----------------------------------------------------------
+
+
+Customer -  5]Bob
+
+
+Wine x10 @ $12.99
+
+
+Total: $129.90
+Thank you come back soon!
+----------------------------------------------------------
+
+
+Customer -  10]Elmo
+
+
+Wine x8 @ $12.99
+Apples x3 @ $0.99
+
+
+Total: $106.89
+Thank you come back soon!
+----------------------------------------------------------
+
+
+Customer -  3]Karen
+
+
+Coffee x3 @ $5.00
+Wine x1 @ $12.99
+
+
+Total: $27.99
+Thank you come back soon!
+----------------------------------------------------------
+
+
+Customer -  1]Human McPerson
+
+
+Wine x10 @ $12.99
+
+
+Total: $129.90
+Thank you come back soon!
+
+Customer did not have enough money and was REJECTED
+Thank you come back soon!
+-----------------------------------------------------------
+
+
