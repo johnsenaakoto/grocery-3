@@ -6,9 +6,9 @@ Project Specification
 This project implements a system that  
 1.	Manages the inventory system for a grocery store  
 2.	Checks out queues of customers with grocery items  
-3.	Provides a menu (with specific syntax) to perform either of the above  
-  
-  	  	  
+3.	Provides a menu (with specific syntax) to perform either of the above
+
+
 Inventory System  
 Description  
 Inventory items should be represented by the following struct: ●  Item - Struct  
